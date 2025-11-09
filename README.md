@@ -20,7 +20,7 @@ Python 3.9+ recommended.
 ## API Key
 
 Both functions accept an API key parameter.  
-If one is not provided, both functions currently default to a sample hardcoded key:
+If one is not provided, both functions currently default to a sample hardcoded key: "gTGlKsrxmGjsdTE0TN71A8wSxAM4GbCl"
 
 
 You should replace this with your own TomTom key from:
